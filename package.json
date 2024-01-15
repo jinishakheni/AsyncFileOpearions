@@ -1,0 +1,14 @@
+{
+  "name": "file-operations",
+  "version": "1.0.0",
+  "description": "File Operations",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Jinisha Patel",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

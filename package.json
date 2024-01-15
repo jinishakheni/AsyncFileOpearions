@@ -8,7 +8,7 @@
   },
   "author": "Jinisha Patel",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^3.0.2"
   }
 }
